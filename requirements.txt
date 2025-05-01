@@ -10,5 +10,6 @@ aiosqlite
 pydantic[email]
 python-multipart
 bcrypt<4.0
-
+asyncpg
+alembic
 # pip install -r requirements.txt
