@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic
+asyncpg
+pyjwt
+aiosqlite
+pydantic[email]
+python-multipart
+bcrypt<4.0
+
+# pip install -r requirements.txt
