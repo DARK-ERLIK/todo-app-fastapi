@@ -4,6 +4,7 @@ sqlalchemy
 passlib[bcrypt]
 python-jose[cryptography]
 pydantic
+pydantic_settings>=2.0.0
 asyncpg
 pyjwt
 aiosqlite
@@ -12,4 +13,4 @@ python-multipart
 bcrypt<4.0
 asyncpg
 alembic
-# pip install -r requirements.txt
+# pip install -r requirements.txt"pydantic_settings>=2.0.0" 
